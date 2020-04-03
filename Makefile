@@ -10,7 +10,7 @@
 EXECUTABLE := gameOfLife
 
 # the source files to be built
-SOURCES := *.cpp
+SOURCES := main.cpp
 
 #stuff you don't need to worry about
 INCLUDES := -I ../include #look at all function
